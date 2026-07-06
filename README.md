@@ -1,5 +1,1 @@
-# badges
-hi
-hi
-how are you
-testing changes
+what to do idk
